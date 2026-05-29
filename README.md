@@ -168,6 +168,16 @@ My team architected an advanced **cross-chain flash-loan solution** built on **O
 
 ---
 
+## 📊 Contribution Graph
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/ff4655/KingAlejo" width="100%" alt="Alejandro's contribution graph" />
+
+</div>
+
+---
+
 ## 🐍 Watch the Snake Eat My Commits
 
 <div align="center">
